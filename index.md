@@ -1,6 +1,5 @@
 ---
 layout: index
-title: Your New Jekyll Site
 ---
 
 {% for post in site.posts %}
