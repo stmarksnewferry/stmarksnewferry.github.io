@@ -1,5 +1,10 @@
 ---
 layout: index
+images:
+  - slide-1.jpg
+  - slide-2.jpg
+  - slide-3.jpg
+  - slide-4.jpg
 ---
 
 {% for post in site.posts %}
