@@ -19,3 +19,7 @@ This is done via the files in `_layouts` and `_includes`. If you want to make si
 The site is built using [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). For major site edits, it's best to install Jekyll on your computer and [set up Git](https://help.github.com/articles/set-up-git), and then you can edit the files on your computer and test it out before making changes to the real site.
 
 For the site's appearance, it uses the [Business Casual](http://startbootstrap.com/business-casual) theme, which is built using [Bootstrap](http://getbootstrap.com/).
+
+# To do
+
+* The site creates separate files for everything in the `_posts_` directory (e.g., [here](http://stmarksnewferry.github.io/about/2000/01/02/about-gospel-partnership.html)). This isn't a problem, but it's a tiny bit ugly. Probably best to wait until GitHub pages uses a version of Jekyll that supports collections, and then re-structure it accordingly: rather than using categories of posts, use separate collections.
