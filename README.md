@@ -2,7 +2,7 @@
 
 Once you have access to this repository, you can just edit the files on [GitHub](https://github.com/stmarksnewferry/stmarksnewferry.github.io).
 
-Most content can be found in the `_posts` directory. Each file corresponds to a box on one of the pages of the site. The category determines where the box ends up, and the boxes are sorted by reverse date (like a blog), where the date is the first part of the filename (the rest of the filename doesn't make a difference). It's a bit messy, I know, but if you want to change the order in which the boxes appear on one of the pages, you simply need to change the dates in the filenames.
+Most content can be found in the `_posts` directory. Each file corresponds to a box on one of the pages of the site. The category determines where the box ends up, and the boxes are sorted by reverse date (like a blog), where the date is the first part of the filename (the rest of the filename doesn't make a difference, but it's generally `yyyy-mm-dd-category-name-one-or-two-other-words.md`). It's a bit messy, I know, but if you want to change the order in which the boxes appear on one of the pages, you simply need to change the dates in the filenames.
 
 Some content can be found in the `index.md` files, either in the root directory, or in the directory for each page (`about`, `contact`, `whats-on`).
 
