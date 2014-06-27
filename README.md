@@ -6,6 +6,8 @@ Most content can be found in the `_posts` directory. Each file corresponds to a 
 
 Some content can be found in the `index.md` files, either in the root directory, or in the directory for each page (`about`, `contact`, `whats-on`).
 
+Files ending in `.md` use [Markdown](https://help.github.com/articles/markdown-basics), which makes it easy to format text (bold, italic, lists, etc) and to include links (e.g., `[link text](http://www.example.com)` becomes [link text](http://www.example.com)).
+
 You can upload images to the `img` folder, and then compare other files to see how to include them in the content. It's best to copy the sizes of existing files: 1110x530 for the carousel images on the front page, 750x450 for the pictures of staff members, 1920x1080 for the background, and a width of 360 for other pictures included in boxes.
 
 # Changing the appearance
