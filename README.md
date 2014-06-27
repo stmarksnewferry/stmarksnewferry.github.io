@@ -12,10 +12,10 @@ You can upload images to the `img` folder, and then compare other files to see h
 
 # Changing the appearance
 
-This is done via the files in `_layouts` and `_includes`.
+This is done via the files in `_layouts` and `_includes`. If you want to make significant changes, it's best to experiment on something other than the real site! See below...
 
 # More details
 
-The site is built using [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+The site is built using [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). For major site edits, it's best to install Jekyll properly, and also to get `git` installed (so you can edit the files on your computer).
 
 For the site's appearance, it uses the [Business Casual](http://startbootstrap.com/business-casual) theme, which is built using [Bootstrap](http://getbootstrap.com/).
