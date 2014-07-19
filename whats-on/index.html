@@ -5,7 +5,25 @@ iframe_src: "https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&a
 xml_url: "http://www.google.com/calendar/feeds/eova0tobuo97abv48f9vn438k0%40group.calendar.google.com/public/basic"
 ics_url: "https://www.google.com/calendar/ical/eova0tobuo97abv48f9vn438k0%40group.calendar.google.com/public/basic.ics"
 ---
-{% include calendar.html %}
+<div class="row">
+    <div class="box">
+        <div class="col-lg-12">
+            <hr>
+            <h2 class="intro-text text-center">This month's <strong>Calendar</strong>
+            </h2>
+            <hr>
+        </div>
+        <div class="col-md-8">
+            <iframe src="{{ page.iframe_src}}" style=" border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+        <div class="col-md-4">
+            <p>As well as the calendar, have a look at <a href="/whats-on/whats-on.pdf">this month's "What's On?" sheet</a> to find out what is currently happening at St Mark's.<p>
+            <p>You can find out more about our regular activities further down this page...</p>
+            <p>Would you like to subscribe to the calendar? Either click the button on the Google calendar, or you can copy and paste the appropriate link into your feed reader or calendar application: <strong><a href="{{ page.xml_url }}">xml</a></strong> or <strong><a href="{{ page.ics_url }}">.ics</a></strong> (right click to copy the link).</p>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
 
 {% for post in site.categories.whats-on %}
   {% include post.html %}
