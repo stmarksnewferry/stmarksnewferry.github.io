@@ -1,3 +1,3 @@
 name: St Mark's New Ferry
 markdown: redcarpet
-pygments: true
+highlighter: pygments
