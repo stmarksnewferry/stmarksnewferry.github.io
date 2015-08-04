@@ -1,6 +1,5 @@
 ---
 title: Our **Aims**
-category: about
 ---
 There are two things that are central to what we are:
 

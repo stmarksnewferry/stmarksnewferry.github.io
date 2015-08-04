@@ -1,6 +1,5 @@
 ---
 title: About **St Mark's New Ferry**
-category: about
 img: people-small.jpg
 ---
 As a church we are convinced that the message of the Bible (written so long ago) is both relevant and life giving in our own day.</p>

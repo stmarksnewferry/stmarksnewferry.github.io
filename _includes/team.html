@@ -6,19 +6,25 @@
             </h2>
             <hr>
         </div>
-        {% for post in site.categories.team %}
+        {% for member in site.team %}
         {% unless forloop.first %}
         <hr>
         {% endunless %}
         <div class="row">
             <div class="col-sm-4 text-center">
-                <img class="img-responsive" src="/img/{{ post.img }}" alt="">
-                <h3>{{ post.title }}<br/>
-                    <small>{{ post.job }}</small>
+                <img class="img-responsive" src="/img/{{ member.img }}" alt="">
+                <h3>{{ member.title }}<br/>
+                    <small>{{ member.job }}</small>
                 </h3>
             </div>
             <div class="col-sm-8">
-                {{ post.content }}
+
+{{ member.content }}
+
+
+
+{{ member.output }}
+
             </div>
         </div>
         {% endfor %}

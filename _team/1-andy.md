@@ -2,7 +2,6 @@
 title: Andrew Greenhough
 job: Vicar
 img: andy.jpg
-category: team
 ---
 Andrew became vicar in 2005, having previously served in churches in mid-Cheshire and the borders of Manchester.
 

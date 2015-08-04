@@ -1,6 +1,5 @@
 ---
 title: Welcome to **St Mark's**!
-category: home
 ---
 St Mark's is a Church of England Parish Church on the Wirral peninsula, and we have been making the Christian Faith known in New Ferry since our foundation in 1866.
 

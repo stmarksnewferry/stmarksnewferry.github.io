@@ -1,6 +1,5 @@
 ---
 title: Sundays
-category: whats-on
 img: pew-end.jpg
 ---
 Our main Sunday service is at 10.30am and lasts for around one hour. The central focus of our meeting is the Bible, often referred to as the Word of God, read and explained and responded to in prayer and praise.

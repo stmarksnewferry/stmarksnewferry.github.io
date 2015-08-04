@@ -1,0 +1,10 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+{% for box in site.about_boxes %}
+{% include box.html %}
+{% endfor %}
+
+{% include team.html %}

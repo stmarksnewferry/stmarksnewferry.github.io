@@ -1,3 +1,11 @@
+# Site settings
 name: St Mark's New Ferry
-markdown: redcarpet
-highlighter: pygments
+collections:
+- team
+- whats_on
+- home_boxes
+- about_boxes
+
+# Build settings
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock, CNAME]

@@ -1,6 +1,5 @@
 ---
 title: Children
-category: whats-on
 ---
 Our children and youth leadership team are all registered with the DBS (Disclosurer and Barring Service), and we operate a child protection policy that ensures that children are always safe.
 

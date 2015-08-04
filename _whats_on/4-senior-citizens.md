@@ -1,7 +1,6 @@
 ---
 title: Senior **citizens**
 img: nello.jpg
-category: whats-on
 ---
 **Tuesday Fellowship**
 

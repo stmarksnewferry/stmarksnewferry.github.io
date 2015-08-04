@@ -8,6 +8,6 @@ images:
 ---
 {% include carousel.html %}
 
-{% for post in site.categories.home %}
-  {% include post.html %}
+{% for box in site.home_boxes %}
+{% include box.html %}
 {% endfor %}
