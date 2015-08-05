@@ -13,7 +13,7 @@ Content can be found in the directories:
 
 Each file corresponds to a box on one of the pages of the site, and the boxes are sorted by the file name.
 
-Some content can be found in the respective `.html` files: `index.html` for the home page, then `about.html`, `contact.html` and `whats-on.html` for the other pages.
+Some content can be found in the respective `.md` files: `index.md` for the home page, then `about.md`, `contact.md` and `whats-on.md` for the other pages.
 
 Files ending in `.md` use [Markdown](https://help.github.com/articles/markdown-basics), which makes it easy to format text (bold, italic, lists, etc) and to include links (e.g., `[link text](http://www.example.com)` becomes [link text](http://www.example.com)).
 
