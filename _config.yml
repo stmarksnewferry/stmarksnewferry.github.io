@@ -1,7 +1,5 @@
 # Site settings
 name: St Mark's New Ferry
-source: ./contents
-layouts: ./_layouts
 collections:
 - team
 - whats_on
