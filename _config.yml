@@ -1,10 +1,10 @@
 # Site settings
 name: St Mark's New Ferry
 collections:
-- team
-- whats_on
 - home_boxes
 - about_boxes
+- team_members
+- whats_on_boxes
 
 # Build settings
 markdown: kramdown

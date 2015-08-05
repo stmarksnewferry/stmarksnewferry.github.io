@@ -8,12 +8,12 @@ Content can be found in the directories:
 
 * `_home_boxes` - boxes for the "Home" page
 * `_about_boxes` - boxes for the "About" page
-* `_team` - sections for the team box on the "About" page
-* `_whats_on` - boxes for the "What's On" page
+* `_team_members` - sections for the team box on the "About" page
+* `_whats_on_boxes` - boxes for the "What's On" page
 
-Each file corresponds to a box on one of the pages of the site, and the boxes are sorted by the file name.
+Each file corresponds to a box or section on one of the pages of the site.
 
-Some content can be found in the respective `.md` files: `index.md` for the home page, then `about.md`, `contact.md` and `whats-on.md` for the other pages.
+To specify the order in which the boxes appear, and to edit some other content, see the respective `.md` files: `index.md` for the home page, then `about.md`, `contact.md` and `whats-on.md` for the other pages.
 
 Files ending in `.md` use [Markdown](https://help.github.com/articles/markdown-basics), which makes it easy to format text (bold, italic, lists, etc) and to include links (e.g., `[link text](http://www.example.com)` becomes [link text](http://www.example.com)).
 

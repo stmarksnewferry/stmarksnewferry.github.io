@@ -44,6 +44,14 @@ layout: default
     </div>
 </div>
 
-{% for box in site.home_boxes %}
+{% for box_name in page.home_boxes %}
+    {% assign box_url = box_name | prepend: "/home_boxes/" | append: ".html" %}
+    {% for box in site.home_boxes %}
+        {% if box.url == box_url %}
+
 {% include box.html %}
+
+            {% break %}
+        {% endif %}
+    {% endfor %}
 {% endfor %}
