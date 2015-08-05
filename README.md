@@ -1,8 +1,8 @@
 # St Mark's New Ferry Website
 
-## Editing the content of the site
-
 Once you have access to this repository, you can just edit the files on [GitHub](https://github.com/stmarksnewferry/stmarksnewferry.github.io). When you save the file (or 'commit it to the repository'), the [real site](http://stmarksnewferry.github.io/) will update by magic.
+
+## Editing the content of the site
 
 To edit the _content_ of the site, go to the [contents folder](https://github.com/stmarksnewferry/stmarksnewferry.github.io/tree/master/contents) and follow the instructions...
 
