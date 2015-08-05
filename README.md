@@ -1,6 +1,6 @@
 # St Mark's New Ferry Website
 
-Once you have access to this repository, you can just edit the files on [GitHub](https://github.com/stmarksnewferry/stmarksnewferry.github.io). When you save the file (or 'commit it to the repository'), the [real site](http://stmarksnewferry.github.io/) will update by magic.
+Once you have access to this repository, you can just edit the files on [GitHub](https://github.com/stmarksnewferry/stmarksnewferry.github.io). When you save the file (or 'commit it to the repository'), the [real site](http://stmarksnewferry.org.uk/) will update by magic.
 
 ## Editing the content of the site
 
@@ -18,6 +18,20 @@ Some content can be found in the respective `.html` files: `index.html` for the 
 Files ending in `.md` use [Markdown](https://help.github.com/articles/markdown-basics), which makes it easy to format text (bold, italic, lists, etc) and to include links (e.g., `[link text](http://www.example.com)` becomes [link text](http://www.example.com)).
 
 You can upload images to the `img` folder, and then compare other files to see how to include them in the content. It's best to copy the sizes of existing files: 1110x530 for the carousel images on the front page, 750x450 for the pictures of staff members, 1920x1080 for the background, and a width of 360 for other pictures included in boxes.
+
+## Extra pages
+
+You can add extra simple pages by clicking the "+" symbol above, to make a new file. Give the file a name like `my-extra-page.md`, and copy and paste what is below into that file (changing the permalink, and editing or deleting the `img: ...` line. The page will appear at [http://stmarksnewferry.org.uk/my-extra-page/](http://stmarksnewferry.org.uk/my-extra-page/). It won't be linked from the navigation bar (or from anywhere).
+
+    ---
+    title: My extra page
+    layout: page
+    permalink: /my-extra-page/
+    img: my-image.jpg
+    ---
+    This is a page.
+
+    This is **bold** and this is a [link](http://www.example.com)
 
 ## Changing the appearance
 
