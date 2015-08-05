@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Easter music
+permalink: /easter/
 ---
 We're doing two pieces, see below for scores and audio...
 
