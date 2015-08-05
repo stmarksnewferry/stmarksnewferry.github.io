@@ -10,7 +10,11 @@
           <hr class="visible-xs">
           {% endif %}
 
+{% if box_content %}
+{{ box_content }}
+{% else %}
 {{ box.content }}
+{% endif %}
 
         </div>
         <div class="clearfix"></div>
