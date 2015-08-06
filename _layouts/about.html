@@ -2,51 +2,50 @@
 layout: default
 ---
 {% for box_name in page.about_boxes %}
-    {% assign box_url = box_name | prepend: "/about_boxes/" | append: ".html" %}
-    {% for box in site.about_boxes %}
-        {% if box.url == box_url %}
+  {% assign box_url = box_name | prepend: "/about_boxes/" | append: ".html" %}
+  {% for box in site.about_boxes %}
+    {% if box.url == box_url %}
 
 {% include box.html %}
 
-            {% break %}
-        {% endif %}
-    {% endfor %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 <div class="row">
-    <div class="box">
-        <div class="col-lg-12">
-            <hr>
-            <h2 class="intro-text text-center">Our <strong>Team</strong>
-            </h2>
-            <hr>
-        </div>
+  <div class="box">
+    <div class="col-lg-12">
+      <hr>
+      <h2 class="intro-text text-center">Our <strong>Team</strong></h2>
+      <hr>
+    </div>
 
 {% for member_name in page.team_members %}
-    {% unless forloop.first %}
-        <hr>
-    {% endunless %}
-    {% assign member_url = member_name | prepend: "/team_members/" | append: ".html" %}
-    {% for member in site.team_members %}
-        {% if member.url == member_url %}
-        <div class="row">
-            <div class="col-sm-4 text-center">
-                <img class="img-responsive" src="/img/{{ member.img }}" alt="">
-                <h3>{{ member.title }}<br/>
-                    <small>{{ member.job }}</small>
-                </h3>
-            </div>
-            <div class="col-sm-8">
+  {% unless forloop.first %}
+    <hr>
+  {% endunless %}
+  {% assign member_url = member_name | prepend: "/team_members/" | append: ".html" %}
+  {% for member in site.team_members %}
+    {% if member.url == member_url %}
+    <div class="row">
+      <div class="col-sm-4 text-center">
+        <img class="img-responsive" src="/img/{{ member.img }}" alt="">
+        <h3>{{ member.title }}<br/>
+          <small>{{ member.job }}</small>
+        </h3>
+      </div>
+      <div class="col-sm-8">
 
 {{ member.content }}
 
-            </div>
-        </div>
+      </div>
+    </div>
         {% break %}
         {% endif %}
     {% endfor %}
 {% endfor %}
 
-        <div class="clearfix"></div>
-    </div>
+    <div class="clearfix"></div>
+  </div>
 </div>
