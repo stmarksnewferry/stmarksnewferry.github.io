@@ -1,5 +1,9 @@
 # Site settings
 name: St Mark's New Ferry
+navigation_pages:
+- about
+- whats-on
+- contact
 collections:
 - home_boxes
 - about_boxes

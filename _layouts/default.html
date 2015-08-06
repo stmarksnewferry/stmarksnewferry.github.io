@@ -33,14 +33,16 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="/">Home</a>
-                </li>
-                <li><a href="/about/">About</a>
-                </li>
-                <li><a href="/whats-on/">What's on</a>
-                </li>
-                <li><a href="/contact/">Contact</a>
-                </li>
+                <li><a href="/">Home</a></li>
+                {% for page in site.navigation_pages %}
+                    {% assign page_url = page | prepend: "/" | append: "/" %}
+                    {% for page in site.pages %}
+                        {% if page.url == page_url %}
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
