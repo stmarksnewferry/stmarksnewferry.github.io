@@ -11,11 +11,20 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  /*font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
   background-size: cover;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /*font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+  /*font-weight: 700;*/
   font-weight: 400;
+  /*letter-spacing: 1px;*/
   letter-spacing: 3px;
   text-transform: uppercase;
 }
@@ -52,6 +61,22 @@ hr {
 .img-full {
   min-width: 100%;
 }
+
+/*
+.brand-before,
+.brand-name {
+  text-transform: capitalize;
+}
+
+.brand-before {
+  margin: 15px 0;
+}
+
+.brand-name {
+  margin: 0;
+  font-size: 4em;
+}
+*/
 
 .brand-name {
   font-size: 1.5em;
@@ -105,6 +130,7 @@ footer p {
   .brand {
     color: #fff;
     display: inherit;
+    /*font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-size: 5em;
     font-weight: 700;
     line-height: normal;
@@ -178,6 +204,8 @@ footer p {
     display: table;
   }
 }
+
+/* Additions */
 
 /* Prevent scroll activating zoom until clicked */
 /* http://stackoverflow.com/questions/21992498/#comment39247447_22567753 */
