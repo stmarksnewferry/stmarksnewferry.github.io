@@ -21,7 +21,7 @@ You can upload images to the `img` folder, and then compare other files to see h
 
 ## Extra pages
 
-You can add extra simple pages by clicking the "+" symbol above, to make a new file. Give the file a name like `my-extra-page.md`, and copy and paste what is below into that file (changing the title and permalink, and editing or deleting the `img: ...` line. The page will appear at [http://www.stmarksnewferry.org.uk/my-extra-page/](http://www.stmarksnewferry.org.uk/my-extra-page/). It won't be linked from the navigation bar (or from anywhere).
+You can add extra simple pages by clicking the "+" symbol above, to make a new file. Give the file a name like `my-extra-page.md`, and copy and paste what is below into that file (changing the title and permalink, and editing or deleting the `img: ...` line. The page will appear at [http://www.stmarksnewferry.org.uk/my-extra-page/](http://www.stmarksnewferry.org.uk/my-extra-page/). Edit `_config.yml` to specify which pages appear in the navigation bar.
 
     ---
     title: My extra page
