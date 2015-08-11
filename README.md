@@ -41,4 +41,4 @@ This is done via the files in `_layouts` and `_includes`. If you want to make si
 
 The site is built using [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). For major site edits, it's best to install Jekyll on your computer and [set up Git](https://help.github.com/articles/set-up-git), and then you can edit the files on your computer and test it out before making changes to the real site.
 
-For the site's appearance, it uses the [Business Casual](http://startbootstrap.com/business-casual) theme, which is built using [Bootstrap](http://getbootstrap.com/).
+For the site's appearance, it uses the [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) theme by [Start Bootstrap](http://startbootstrap.com/), which is built using [Bootstrap](http://getbootstrap.com/). The theme is Copyright 2013-2015 Iron Summit Media Strategies, LLC, and is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
