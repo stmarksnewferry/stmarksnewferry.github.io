@@ -11,7 +11,7 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  /*font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   background-size: cover;
 }
 
@@ -22,10 +22,8 @@ h4,
 h5,
 h6 {
   /*font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
-  /*font-weight: 700;*/
-  font-weight: 400;
-  /*letter-spacing: 1px;*/
-  letter-spacing: 3px;
+  font-weight: 700;
+  letter-spacing: 1px;
   text-transform: uppercase;
 }
 
@@ -65,7 +63,7 @@ hr {
   min-width: 100%;
 }
 
-/*
+
 .brand-before,
 .brand-name {
   text-transform: capitalize;
@@ -76,16 +74,8 @@ hr {
 }
 
 .brand-name {
-  margin: 0;
   font-size: 4em;
-}
-*/
-
-.brand-name {
-  font-size: 1.5em;
-  font-weight: 700;
-  letter-spacing: normal;
-  text-transform: capitalize;
+  margin: 0;
 }
 
 .tagline-divider {
