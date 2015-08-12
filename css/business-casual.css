@@ -45,6 +45,9 @@ hr {
   display: none;
 }
 
+.navbar {
+  margin-bottom: 30px;
+}
 
 .navbar-brand {
   font-weight: 900;
@@ -93,8 +96,9 @@ hr {
 
 .box {
   background: #fff;
-  background: rgba(255, 255, 255, .9);
-  margin-bottom: 20px;
+  background: rgba(255, 255, 255, .85);
+  border-radius: 20px;
+  margin-bottom: 30px;
   padding: 30px 15px;
 }
 
@@ -105,10 +109,16 @@ hr {
   text-transform: uppercase;
 }
 
+.carousel {
+  border-radius: 20px;
+  overflow: hidden;
+}
+
 .img-border {
+  border: #999 solid 1px;
+  border-radius: 20px;
   float: none;
   margin: 0 auto 0;
-  border: #999999 solid 1px;
 }
 
 .img-left {
@@ -118,12 +128,12 @@ hr {
 
 footer {
   background: #fff;
-  background: rgba(255, 255, 255 , .9);
+  background: rgba(255, 255, 255, .85);
 }
 
 footer p {
   margin: 0;
-  padding: 50px 0;
+  padding: 20px 0;
 }
 
 @media screen and (min-width: 768px) {
@@ -176,12 +186,12 @@ footer p {
 
   .navbar-default {
     background: #fff;
-    background: rgba(255, 255, 255, .9);
+    background: rgba(255, 255, 255, .85);
     border: 0;
   }
 
   .nav>li>a {
-    padding: 35px;
+    padding: 20px;
   }
 
   .navbar-nav>li>a {
@@ -206,6 +216,14 @@ footer p {
 }
 
 /* Additions */
+
+/* Override Bootstrap's default container. */
+
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
 
 /* Prevent scroll activating zoom until clicked */
 /* http://stackoverflow.com/questions/21992498/#comment39247447_22567753 */
