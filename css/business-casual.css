@@ -6,6 +6,15 @@
  * This file has been altered.
  */
 
+/* Might stop background image size on Android from scaling to height of whole page */
+html {
+  height: 100%;
+  min-height: 100%;
+}
+body {
+  min-height: 100%;
+}
+
 body {
   background: url('../img/bg.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
