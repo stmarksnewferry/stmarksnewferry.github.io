@@ -230,8 +230,10 @@ footer p {
 
 // Add margin to left and right of container on small screens
 
-.container {
-  width: 90%;
+@media (max-width: 767px) {
+  .container {
+    width: 90%;
+  }
 }
 
 // Prevent scroll activating zoom in Google map until clicked
