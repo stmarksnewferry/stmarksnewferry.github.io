@@ -8,19 +8,23 @@
  * This file has been altered.
  */
 
-// Stop background image size on Android from scaling to height of whole page
-// (Also body min-height)
 
 html {
+  // Stop background image size on Android from scaling to height of whole page
+  // (Also body min-height)
   height: 100%;
   min-height: 100%;
 }
 
 $base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-// $heading-font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Theme uses "Josefin Slab" (Google font) for headings. Find an alternative?
+$heading-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $box-spacing: 30px;
 $box-background-fallback: #fff;
 $box-background: rgba(255, 255, 255, .85);
+$header-footer-padding: 20px;
+$border-radius: 20px;
+$border-color: #999;
 
 body {
   background: url('../img/bg.jpg') no-repeat center center fixed;
@@ -38,7 +42,7 @@ h3,
 h4,
 h5,
 h6 {
-  // font-family: $heading-font-family;
+  font-family: $heading-font-family;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -51,7 +55,7 @@ p {
 }
 
 hr {
-  border-color: #999;
+  border-color: $border-color;
   max-width: 400px;
 }
 
@@ -96,7 +100,7 @@ hr {
 }
 
 .tagline-divider {
-  border-color: #999;
+  border-color: $border-color;
   margin: 15px auto 3px;
   max-width: 250px;
 }
@@ -104,7 +108,7 @@ hr {
 .box {
   background: $box-background-fallback;
   background: $box-background;
-  border-radius: 20px;
+  border-radius: $border-radius;
   margin-bottom: $box-spacing;
   padding: 30px 15px;
 }
@@ -117,37 +121,51 @@ hr {
 }
 
 .carousel {
-  border-radius: 20px;
-  overflow: hidden;
+  border-radius: $border-radius;
+  overflow: hidden; // because of border-radius
 }
 
 .img-border {
-  border: #999 solid 1px;
-  border-radius: 20px;
+  border: $border-color solid 1px;
+  border-radius: $border-radius;
   float: none;
-  margin: 0 auto 0;
+  margin: 0 auto;
 }
 
 .img-left {
   float: none;
-  margin: 0 auto 0;
+  margin: 0 auto;
 }
 
 footer {
   background: $box-background-fallback;
   background: $box-background;
+
+  p {
+    margin: 0;
+    padding: $header-footer-padding 0;
+  }
 }
 
-footer p {
-  margin: 0;
-  padding: 20px 0;
+.overlay {
+  // Prevent scroll activating zoom in Google map until clicked
+  // http://stackoverflow.com/questions/21992498/#comment39247447_22567753
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    width: 90%; // leave margin to left and right of container on small screens
+  }
 }
 
 @media screen and (min-width: 768px) {
   .brand {
     color: #fff;
     display: inherit;
-    // font-family: $heading-font-family;
+    font-family: $heading-font-family;
     font-size: 5em;
     font-weight: 700;
     line-height: normal;
@@ -198,7 +216,7 @@ footer p {
   }
 
   .nav>li>a {
-    padding: 20px;
+    padding: $header-footer-padding;
   }
 
   .navbar-nav>li>a {
@@ -220,31 +238,8 @@ footer p {
     content: '';
     display: table;
   }
-}
 
-// Additions
-
-// Override Bootstrap's default container.
-
-@media (min-width: 1200px) {
   .container {
-    width: 970px;
+    width: 970px; // override Bootstrap's default container
   }
-}
-
-// Add margin to left and right of container on small screens
-
-@media (max-width: 767px) {
-  .container {
-    width: 90%;
-  }
-}
-
-// Prevent scroll activating zoom in Google map until clicked
-// http://stackoverflow.com/questions/21992498/#comment39247447_22567753
-
-.overlay {
-  height: 100%;
-  position: absolute;
-  width: 100%;
 }
