@@ -8,15 +8,19 @@
  * This file has been altered.
  */
 
-$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-// $heading-font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$box-spacing: 30px;
-
 // Stop background image size on Android from scaling to height of whole page
+// (Also body min-height)
+
 html {
   height: 100%;
   min-height: 100%;
 }
+
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $heading-font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$box-spacing: 30px;
+$box-background-fallback: #fff;
+$box-background: rgba(255, 255, 255, .85);
 
 body {
   background: url('../img/bg.jpg') no-repeat center center fixed;
@@ -98,8 +102,8 @@ hr {
 }
 
 .box {
-  background: #fff;
-  background: rgba(255, 255, 255, .85);
+  background: $box-background-fallback;
+  background: $box-background;
   border-radius: 20px;
   margin-bottom: $box-spacing;
   padding: 30px 15px;
@@ -130,8 +134,8 @@ hr {
 }
 
 footer {
-  background: #fff;
-  background: rgba(255, 255, 255, .85);
+  background: $box-background-fallback;
+  background: $box-background;
 }
 
 footer p {
@@ -188,8 +192,8 @@ footer p {
   }
 
   .navbar-default {
-    background: #fff;
-    background: rgba(255, 255, 255, .85);
+    background: $box-background-fallback;
+    background: $box-background;
     border: 0;
   }
 
