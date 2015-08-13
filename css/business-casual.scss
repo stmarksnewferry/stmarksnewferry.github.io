@@ -1,3 +1,5 @@
+---
+---
 /*!
  * Start Bootstrap - Business Casual Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -6,22 +8,24 @@
  * This file has been altered.
  */
 
-/* Might stop background image size on Android from scaling to height of whole page */
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $heading-font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$box-spacing: 30px;
+
+// Stop background image size on Android from scaling to height of whole page
 html {
   height: 100%;
-  min-height: 100%;
-}
-body {
   min-height: 100%;
 }
 
 body {
   background: url('../img/bg.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  -webkit-background-size: cover;
   background-size: cover;
+  font-family: $base-font-family;
+  min-height: 100%;
 }
 
 h1,
@@ -30,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  /*font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+  // font-family: $heading-font-family;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -53,7 +57,7 @@ hr {
 }
 
 .navbar {
-  margin-bottom: 30px;
+  margin-bottom: $box-spacing;
 }
 
 .navbar-brand {
@@ -97,7 +101,7 @@ hr {
   background: #fff;
   background: rgba(255, 255, 255, .85);
   border-radius: 20px;
-  margin-bottom: 30px;
+  margin-bottom: $box-spacing;
   padding: 30px 15px;
 }
 
@@ -139,7 +143,7 @@ footer p {
   .brand {
     color: #fff;
     display: inherit;
-    /*font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    // font-family: $heading-font-family;
     font-size: 5em;
     font-weight: 700;
     line-height: normal;
@@ -214,9 +218,9 @@ footer p {
   }
 }
 
-/* Additions */
+// Additions
 
-/* Override Bootstrap's default container. */
+// Override Bootstrap's default container.
 
 @media (min-width: 1200px) {
   .container {
@@ -224,8 +228,15 @@ footer p {
   }
 }
 
-/* Prevent scroll activating zoom until clicked */
-/* http://stackoverflow.com/questions/21992498/#comment39247447_22567753 */
+// Add margin to left and right of container on small screens
+
+.container {
+  width: 90%;
+}
+
+// Prevent scroll activating zoom in Google map until clicked
+// http://stackoverflow.com/questions/21992498/#comment39247447_22567753
+
 .overlay {
   height: 100%;
   position: absolute;
