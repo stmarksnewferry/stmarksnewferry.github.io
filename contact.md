@@ -11,8 +11,10 @@ iframe_src: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2380.910200970
 layout: contact
 permalink: /contact/
 ---
+Address: **23 New Chester Road, New Ferry, Wirral CH62 1DG**
+
 Phone: **0151 645 2638**
 
 Email: **[admin@stmarksnewferry.org.uk](mailto:admin@stmarksnewferry.org.uk)**
 
-Address: **23 New Chester Road, New Ferry, Wirral CH62 1DG**
+Facebook: **[stmarksnewferry](https://www.facebook.com/stmarksnewferry)**
