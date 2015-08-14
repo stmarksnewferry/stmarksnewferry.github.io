@@ -59,11 +59,6 @@ hr {
   max-width: 400px;
 }
 
-.brand,
-.address-bar {
-  display: none;
-}
-
 .navbar {
   margin-bottom: $box-spacing;
 }
@@ -84,25 +79,10 @@ hr {
   min-width: 100%;
 }
 
-
-.brand-before,
-.brand-name {
-  text-transform: capitalize;
-}
-
-.brand-before {
-  margin: 15px 0;
-}
-
-.brand-name {
+.site-name {
   font-size: 4em;
   margin: 0;
-}
-
-.tagline-divider {
-  border-color: $border-color;
-  margin: 15px auto 3px;
-  max-width: 250px;
+  text-transform: capitalize;
 }
 
 .box {
@@ -162,51 +142,18 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
-  .brand {
-    color: #fff;
-    display: inherit;
-    font-family: $heading-font-family;
-    font-size: 5em;
-    font-weight: 700;
-    line-height: normal;
-    margin: 0;
-    padding: 30px 0 10px;
-    text-align: center;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, .5);
-  }
-
-  .top-divider {
-    margin-top: 0;
-  }
-
   .img-left {
     float: left;
     margin-right: 25px;
   }
 
-  .address-bar {
-    color: #fff;
-    display: inherit;
-    font-size: 1.25em;
-    font-weight: 400;
-    letter-spacing: 3px;
-    margin: 0;
-    padding: 0 0 40px;
-    text-align: center;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, .5);
-    text-transform: uppercase;
-  }
-
   .navbar {
     border-radius: 0;
+    min-height: 0;
   }
 
   .navbar-header {
     display: none;
-  }
-
-  .navbar {
-    min-height: 0;
   }
 
   .navbar-default {
@@ -234,6 +181,7 @@ footer {
 
 @media screen and (min-width: 1200px) {
   .box:after {
+    // See https://css-tricks.com/snippets/css/clear-fix/
     clear: both;
     content: '';
     display: table;
