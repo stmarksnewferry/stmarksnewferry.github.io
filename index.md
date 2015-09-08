@@ -5,7 +5,6 @@
 tagline: Declaring, sharing and living the good news of Jesus Christ
 home_boxes:
 - welcome
-- nello
 
 # Carousel images
 images:
