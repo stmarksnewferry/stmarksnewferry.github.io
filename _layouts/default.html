@@ -9,12 +9,6 @@
 
   <title>{% if page.title %}{{ page.title}} - {% endif %}{{ site.name }}</title>
 
-  <!-- Preload background image -->
-  <script>
-  img = new Image();
-  img.src = "/img/bg.jpg";
-  </script>
-
   <!-- Bootstrap core CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">
 
@@ -28,6 +22,9 @@
 </head>
 
 <body>
+
+<!-- Preload background image (don't wait for CSS) -->
+<img style="display: none;" src="/img/bg.jpg">
 
 <nav class="navbar navbar-default" role="navigation">
   <div class="container">
