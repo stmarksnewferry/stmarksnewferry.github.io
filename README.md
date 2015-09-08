@@ -17,7 +17,7 @@ To specify the order in which the boxes appear, and to edit some other content, 
 
 Files ending in `.md` use [Markdown](https://help.github.com/articles/markdown-basics), which makes it easy to format text (bold, italic, lists, etc) and to include links (e.g., `[link text](http://www.example.com)` becomes [link text](http://www.example.com)).
 
-You can upload images to the `img` folder, and then compare other files to see how to include them in the content. It's best to copy the sizes of existing files: 1110x530 for the carousel images on the front page, 750x450 for the pictures of staff members, 1920x1080 for the background, and a width of 360 for other pictures included in boxes.
+You can upload images to the `img` folder, and then compare other files to see how to include them in the content. It's best to copy the sizes of existing files: 910x435 for the carousel images on the front page, 750x450 for the pictures of staff members, 1920x1080 for the background, and 360x270 for other pictures included in boxes.
 
 ## Extra pages
 
