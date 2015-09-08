@@ -1,5 +1,6 @@
 ---
 title: Christianity **Explored**
+img: christianity-explored.jpg
 ---
 It isn't necessary to have it all worked out before you can come to St Marks! Often folks are "just looking" at the Christian faith. "Christianity Explored" is an informal way to find answers to those questions.
 

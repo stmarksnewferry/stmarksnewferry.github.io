@@ -1,5 +1,6 @@
 ---
 title: Our **Aims**
+img: church-interior-east.jpg
 ---
 There are two things that are central to what we are:
 
