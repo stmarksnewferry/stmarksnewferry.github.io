@@ -15,5 +15,4 @@ team_members:
 
 # Site settings (do not edit)
 layout: about
-permalink: /about/
 ---

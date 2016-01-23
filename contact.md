@@ -9,7 +9,6 @@ iframe_src: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2380.910200970
 
 # Site settings (do not edit)
 layout: contact
-permalink: /contact/
 ---
 Address: **23 New Chester Road, New Ferry, Wirral CH62 1DG**
 

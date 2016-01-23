@@ -15,7 +15,6 @@ iframe_src: "https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&a
 
 # Site settings (do not edit)
 layout: whats-on
-permalink: /whats-on/
 ---
 As well as the calendar, have a look at [this month's "What's On?" sheet](https://www.dropbox.com/s/pmm7ub2aqf8bhc5/whats-on.pdf?raw=1) to find out what is currently happening at St Mark's.
 

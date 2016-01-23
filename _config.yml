@@ -9,6 +9,7 @@ collections:
 - about_boxes
 - team_members
 - whats_on_boxes
+permalink: pretty
 
 # Build settings
 markdown: kramdown

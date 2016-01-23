@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Christmas music
-permalink: /christmas/
 ---
 We're doing two pieces, see below for scores and audio...
 

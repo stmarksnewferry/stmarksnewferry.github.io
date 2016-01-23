@@ -26,7 +26,6 @@ You can add extra simple pages by clicking the "+" symbol above, to make a new f
     ---
     title: My extra page
     layout: page
-    permalink: /my-extra-page/
     img: my-image.jpg
     ---
     This is a page.
