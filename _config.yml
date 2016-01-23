@@ -10,6 +10,13 @@ collections:
 - team_members
 - whats_on_boxes
 permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 
 # Build settings
 markdown: kramdown
