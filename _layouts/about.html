@@ -2,7 +2,7 @@
 layout: default
 ---
 {% for box_name in page.about_boxes %}
-  {% assign box_url = box_name | prepend: "/about_boxes/" | append: ".html" %}
+  {% assign box_url = box_name | prepend: "/about_boxes/" | append: "/" %}
   {% for box in site.about_boxes %}
     {% if box.url == box_url %}
 
@@ -25,7 +25,7 @@ layout: default
   {% unless forloop.first %}
     <hr>
   {% endunless %}
-  {% assign member_url = member_name | prepend: "/team_members/" | append: ".html" %}
+  {% assign member_url = member_name | prepend: "/team_members/" | append: "/" %}
   {% for member in site.team_members %}
     {% if member.url == member_url %}
     <div class="row">
