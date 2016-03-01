@@ -22,12 +22,8 @@ layout: default
 
 {% for box_name in page.whats_on_boxes %}
   {% assign box_url = box_name | prepend: "/whats_on_boxes/" | append: "/" %}
-  {% for box in site.whats_on_boxes %}
-    {% if box.url == box_url %}
+  {% assign box = site.whats_on_boxes | where: "url", box_url | first %}
 
 {% include box.html %}
 
-      {% break %}
-    {% endif %}
-  {% endfor %}
 {% endfor %}

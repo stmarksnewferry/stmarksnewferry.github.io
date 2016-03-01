@@ -43,14 +43,10 @@
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav">
         <li><a href="/">Home</a></li>
-        {% for page in site.navigation_pages %}
-          {% assign page_url = page | prepend: "/" | append: "/" %}
-          {% for page in site.pages %}
-            {% if page.url == page_url %}
+        {% for page_name in site.navigation_pages %}
+          {% assign page_url = page_name | prepend: "/" | append: "/" %}
+          {% assign page = site.pages | where: "url", page_url | first %}
         <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-              {% break %}
-            {% endif %}
-          {% endfor %}
         {% endfor %}
         <li><a href="https://www.facebook.com/stmarksnewferry"><i class="fa fa-facebook"></i></a></li>
       </ul>
