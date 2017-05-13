@@ -11,7 +11,7 @@ whats_on_boxes:
 - christianity-explored
 
 # Calendar settings (links from Google Calendar)
-<iframe src="https://calendar.google.com/calendar/embed?src=mqlsegtk8dtm101ekmb8117070%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mqlsegtk8dtm101ekmb8117070%40group.calendar.google.com&amp;color=%23000080&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Site settings (do not edit)
 layout: whats-on
