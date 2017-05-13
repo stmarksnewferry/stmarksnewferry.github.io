@@ -5,4 +5,4 @@ img: mike.jpg
 ---
 Mike's a St Mark's lad from birth, growing up through the children's and youth work. Having returned from Preston (Uni & vocational training) he is now serving on the staff team at St Mark's. Mike oversee's our children's and youth ministries, teaches RE in the local school, and pitches in to most aspects of parish life.
 
-Mike is married to Ruth, enjoys his X-Box, and plays football Sunday nights, but makes sure he is home in time to watch Match of the Day!
+Mike is married to Ruth, they have a young daughter. He plays football Sunday nights, but makes sure he is home in time to watch Match of the Day!
