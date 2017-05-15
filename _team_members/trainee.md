@@ -1,5 +1,5 @@
 ---
-title: Pete Chamberlain
+title: Pete Chamberlin
 job: Curate
 img: trainee.png
 ---
