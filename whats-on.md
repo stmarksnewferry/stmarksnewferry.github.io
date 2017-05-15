@@ -10,8 +10,9 @@ whats_on_boxes:
 - senior-citizens
 - christianity-explored
 
-# Calendar settings (links from Google Calendar)
-iframe_src: "https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mqlsegtk8dtm101ekmb8117070%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Europe%2FLondon"
+# Calendar settings (from Google Calendar link)
+# E.g., ....= >>>>-----THIS BIT----->>>> mqlsegtk8dtm101ekmb8117070 <<<<-----THIS BIT-----<<<< %40group.calendar.google.com
+google_calendar_src: mqlsegtk8dtm101ekmb8117070
 
 # Site settings (do not edit)
 layout: whats-on
@@ -20,7 +21,6 @@ As well as the calendar, have a look at [this month's "What's On?" sheet](https:
 
 You can find out more about our regular activities further down this page...
 
-Would you like to subscribe to the calendar? Either click the button on the Google calendar, or you can copy and paste the appropriate link into your feed reader or calendar application: **[xml]** or **[ics]** (right click to copy the link).
+Would you like to subscribe to the calendar? Either click the button on the Google calendar, or you can copy and paste the link into your calendar application: **[ics]** (right click to copy the link).
 
-[xml]: http://www.google.com/calendar/feeds/eova0tobuo97abv48f9vn438k0%40group.calendar.google.com/public/basic
-[ics]: https://www.google.com/calendar/ical/eova0tobuo97abv48f9vn438k0%40group.calendar.google.com/public/basic.ics
+[ics]: https://www.google.com/calendar/ical/{{ page.google_calendar_src }}%40group.calendar.google.com/public/basic.ics
