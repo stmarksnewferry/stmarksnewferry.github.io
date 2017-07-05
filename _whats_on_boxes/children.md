@@ -5,6 +5,6 @@ Our children and youth leadership team are all registered with the DBS (Disclosu
 
 As well as creche and groups for children and young people on Sundays, we also have midweek groups.
 
-Younger children (key stage 1 and 2) meet in the church hall, from 5.45 to 6.45pm.
+Younger children (key stage 1 and 2) meet Tuesdays in term time in the church hall, from 5.45 to 6.45pm.
 
-Older children (key stage 3) meet in the church lounge, from 5.45 to 7pm.
+Older children (key stage 3) meet Tuesdays in term time in the church lounge, from 5.45 to 7pm.
