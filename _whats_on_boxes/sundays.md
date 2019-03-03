@@ -12,4 +12,4 @@ The third and fifth Sundays of the month include Holy Communion.
 
 **Football**
 
-A few years ago we started a bit of a kick about. This turned into a weekly fixture! We play on a Sunday evening, for fun, in the Village Hall. 7.30pm for an hour.
+A few years ago we started a bit of a kick about. This turned into a weekly fixture! We play on a Sunday evening, for fun, in the Village Hall. 8pm-9.30pm.
