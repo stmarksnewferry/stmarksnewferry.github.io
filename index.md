@@ -2,7 +2,7 @@
 # HOME PAGE
 
 # Settings
-tagline: Declaring, sharing and living the good news of Jesus Christ
+tagline: Declaring, living and sharing the good news of Jesus Christ
 home_boxes:
 - welcome
 
