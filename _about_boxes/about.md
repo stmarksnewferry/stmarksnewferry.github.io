@@ -5,3 +5,5 @@ img: people-small.jpg
 As a church we are convinced that the message of the Bible (written so long ago) is both relevant and life giving in our own day.
 
 If you have an eye to church history, we stand in the Reformed tradition of the Church of England; taking the Bible as the supreme authority in all matters of faith and conduct.
+
+In support of the GAFCON movement, we have adopted the Jerusalem Declaration as a good statement of our core beliefs. 
