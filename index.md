@@ -5,6 +5,7 @@
 tagline: Declaring, living and sharing the good news of Jesus Christ
 home_boxes:
 - welcome
+- safeguarding
 
 # Carousel images
 images:
