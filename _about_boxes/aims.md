@@ -4,6 +4,14 @@ img: church-interior-east.jpg
 ---
 There are two things that are central to what we are:
 
-First is the great command of Jesus - to love God with all that we are, and to love our neighbours as ourselves. When we gather as a church family we seek to express our love for God in praise, prayer, and obedient listening to his Word, the Bible; and to support one another as we live the Christian life day by day.
+First is the great command of Jesus - to love God with all that we are, and to love our neighbours as ourselves. (Matthew 22:37-38)
 
-Second is the great mission Jesus gave the church - to go and make disciples of all nations. Every square inch of our nation is served by a Church of England parish church, and the duty and joy of that church family is to make known the good news of Jesus Christ to every new generation.
+We **GATHER** as the community of God’s people, sharing the new life that is ours through the resurrection of Jesus Christ from the dead. When we gather we express our love for God in praise, prayer, and obedient listening to his Word, the Bible.
+
+We **GROW** in our commitment to God’s truth, supporting and encouraging one another in living as disciples of Jesus day by day.
+
+Second is the great mission Jesus gave the church - to go and make disciples of all nations. (Matthew 28:19)
+
+We **GO** with the compassion of God’s love to the least and the lost, declaring “the kingdom of God has come near, repent and believe the good news!”
+
+That  “going” is both local to our town and community, and further afield through mission partners we support in other parts of the UK and abroad.
