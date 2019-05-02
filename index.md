@@ -2,7 +2,7 @@
 # HOME PAGE
 
 # Settings
-tagline: Declaring, living and sharing the good news of Jesus Christ
+tagline: Gather : Grow : Go
 home_boxes:
 - welcome
 - safeguarding
