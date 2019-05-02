@@ -2,7 +2,7 @@
 # HOME PAGE
 
 # Settings
-tagline: Gather : Grow : Go
+tagline: Gather  Grow  Go
 home_boxes:
 - welcome
 - safeguarding
