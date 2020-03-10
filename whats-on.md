@@ -5,6 +5,7 @@
 title: What's on
 whats_on_boxes:
 - sundays
+- events
 - homegroups
 - children
 - senior-citizens
