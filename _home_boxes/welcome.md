@@ -8,7 +8,7 @@ St Mark's is a Church of England Parish Church on the Wirral peninsula, and we h
 
 Due to the current coronavirus pandemic, we are not gathering together for public worship. We have made arrangements for a "virtual gathering" Sunday by Sunday, and a Facebook conversation group alongside our public Facebook page. If you would like to hear more please email vicar@stamerksnewferry.org.uk
 
-
+Psalm 46 reminds us that "God is our refuge and strength, an ever-present help in trouble." If you don't normally pray, then in these unprecedented days would be a good time to start! The LORD is still sovereign over all the world, and he cares for you.
 
 
 
