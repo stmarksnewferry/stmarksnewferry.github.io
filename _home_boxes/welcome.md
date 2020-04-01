@@ -10,6 +10,20 @@ Due to the current coronavirus pandemic, we are not gathering together for publi
 
 Psalm 46 reminds us that "God is our refuge and strength, an ever-present help in trouble." If you don't normally pray, then in these unprecedented days would be a good time to start! The LORD is still sovereign over all the world, and he cares for you.
 
+A lot of our usual activities are unable to take place as usual. But we have made arrangements to support those who might be finding the social distancing and isolation most difficult:
+
+Sticky Fingers – our puppet “Peter” has been filmed telling the stories from the last term. You can engage with him on the Sticky Fingers Facebook page
+Tuesday Fellowship – providing for (mainly) older folks has responded to the needs of those perhaps not as “connected” by modern technology. There’s a telephone conversation every day at 10.30am using a conference call system that allows several people to talk together as a group on the phone.
+Midweek groups – meeting to read the Bible together, pray together and encourage one another to live for Jesus every day … we’re still meeting, by “Zoom” video conference.
+
+Additionally, the Foodbank that up until recently operated out of the church building on a Thursday has joined a central effort co-ordinated by the Council. The “Emergency Food Hub” is your first port of call: https://www.wirral.gov.uk/foodhelp
+
+Finally, if you are feeling anxious, wondering where God is, and need someone to talk to, please do get in touch: clergy@stmarksnewferry or 645 2638
+
+Our Facebook page has more regular updates … https://www.facebook.com/stmarksnewferry/
+
+
+
 **____**
 
 
