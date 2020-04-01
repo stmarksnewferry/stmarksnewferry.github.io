@@ -12,8 +12,10 @@ Psalm 46 reminds us that "God is our refuge and strength, an ever-present help i
 
 A lot of our usual activities are unable to take place as usual. But we have made arrangements to support those who might be finding the social distancing and isolation most difficult:
 
-Sticky Fingers – our puppet “Peter” has been filmed telling the stories from the last term. You can engage with him on the Sticky Fingers Facebook page
+Sticky Fingers – our puppet “Peter” has been filmed telling the stories from the last term. You can engage with him on the Sticky Fingers Facebook page https://www.facebook.com/newferrystickyfingers/
+
 Tuesday Fellowship – providing for (mainly) older folks has responded to the needs of those perhaps not as “connected” by modern technology. There’s a telephone conversation every day at 10.30am using a conference call system that allows several people to talk together as a group on the phone.
+
 Midweek groups – meeting to read the Bible together, pray together and encourage one another to live for Jesus every day … we’re still meeting, by “Zoom” video conference.
 
 Additionally, the Foodbank that up until recently operated out of the church building on a Thursday has joined a central effort co-ordinated by the Council. The “Emergency Food Hub” is your first port of call: https://www.wirral.gov.uk/foodhelp
