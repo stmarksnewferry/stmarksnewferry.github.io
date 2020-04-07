@@ -4,26 +4,17 @@ img: welcome.jpg
 ---
 St Mark's is a Church of England Parish Church on the Wirral peninsula, and we have been making the Christian Faith known in New Ferry since our foundation in 1866.
 
-**PUBLIC WORSHIP "ON HOLD"**
+**Normal Service will be Resumed ... hopefully soon**
 
-Due to the current coronavirus pandemic, we are not gathering together for public worship. We have made arrangements for a "virtual gathering" Sunday by Sunday, and a Facebook conversation group alongside our public Facebook page. If you would like to hear more please email vicar@stmarksnewferry.org.uk
+The church building is empty … and so is the grave where Jesus was buried! The disciples that first Easter morning were told “He is not here, he is risen!”
 
-Psalm 46 reminds us that "God is our refuge and strength, an ever-present help in trouble." If you don't normally pray, then in these unprecedented days would be a good time to start! The LORD is still sovereign over all the world, and he cares for you.
+As we enter the season of Easter we rejoice in the new life and living hope given to us through the resurrection of Jesus from the dead.
 
-A lot of our usual activities are unable to take place as usual. But we have made arrangements to support those who might be finding the social distancing and isolation most difficult:
+At a time where hopes are dashed the focus on the news is how many more deaths due to the pandemic have occurred since yesterday. At the same time the message about Jesus, and the life and hope he offers, is all the more attractive.
 
-Sticky Fingers – our puppet “Peter” has been filmed telling the stories from the last term. You can engage with him on the Sticky Fingers Facebook page https://www.facebook.com/newferrystickyfingers/
-
-Tuesday Fellowship – providing for (mainly) older folks has responded to the needs of those perhaps not as “connected” by modern technology. There’s a telephone conversation every day at 10.30am using a conference call system that allows several people to talk together as a group on the phone.
-
-Midweek groups – meeting to read the Bible together, pray together and encourage one another to live for Jesus every day … we’re still meeting, by “Zoom” video conference.
-
-Additionally, the Foodbank that up until recently operated out of the church building on a Thursday has joined a central effort co-ordinated by the Council. The “Emergency Food Hub” is your first port of call: https://www.wirral.gov.uk/foodhelp
+Follow our Facebook page to hear more … https://www.facebook.com/stmarksnewferry/
 
 Finally, if you are feeling anxious, wondering where God is, and need someone to talk to, please do get in touch: clergy@stmarksnewferry or 645 2638
-
-Our Facebook page has more regular updates … https://www.facebook.com/stmarksnewferry/
-
 
 
 **____**
