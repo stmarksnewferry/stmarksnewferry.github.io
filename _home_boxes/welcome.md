@@ -10,7 +10,7 @@ After 3 months or more being closed for public worship, and meeting together usi
 
 Follow our Facebook page to hear more … https://www.facebook.com/stmarksnewferry/
 
-Finally, if you are feeling anxious, wondering where God is, and need someone to talk to, please do get in touch: clergy@stmarksnewferry.org.uk or 645 2638
+Finally, if you are feeling anxious, wondering where God is, and need someone to talk to, please do get in touch: vicar@stmarksnewferry.org.uk or 645 2638
 
 
 **_________________________________________________**
