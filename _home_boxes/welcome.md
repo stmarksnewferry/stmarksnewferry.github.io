@@ -4,11 +4,9 @@ img: welcome.jpg
 ---
 St Mark's is a Church of England Parish Church on the Wirral peninsula, and we have been making the Christian Faith known in New Ferry since our foundation in 1866.
 
-**Re-opening 12th July for 10.30am morning meeting**
+**We are open for our 10.30am Sunday morning meeting**
 
-After 3 months or more being closed for public worship, and meeting together using "Zoom", we are re-opening on 12th July for our 10.30am morning meeting. In order to maintain distance, and a safe environment, it would be really helpful to know if you intend to come along. We can only seat a certain number in the building, and rather than turn up and be told "sorry, we are full" please email us: admin@stmarksnewferry.org.uk
-
-Follow our Facebook page to hear more … https://www.facebook.com/stmarksnewferry/
+We re-opened the doors on 12th July, after 3 months or so meeting online using the "Zoom" platform. In order to maintain distance, and a safe environment, it would be really helpful to know if you intend to come along. We can only seat a certain number in the building, and rather than turn up and be told "sorry, we are full". We are still using the Zoom platform to enable people still shielding at home to be part of the meeting. Please email us: admin@stmarksnewferry.org.uk or follow our Facebook page to hear more … https://www.facebook.com/stmarksnewferry/
 
 Finally, if you are feeling anxious, wondering where God is, and need someone to talk to, please do get in touch: vicar@stmarksnewferry.org.uk or 645 2638
 
