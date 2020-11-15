@@ -10,9 +10,7 @@ We re-opened the doors on 12th July, after 3 months or so meeting online using t
 
 Finally, if you are feeling anxious, wondering where God is, and need someone to talk to, please do get in touch: vicar@stmarksnewferry.org.uk or 645 2638
 
-
-**_________________________________________________**
-
+<hr>
 
 The church members today are from all ages and all stages along the "journey of faith", and we hope these pages give you a picture of what we are like! A virtual visit is nothing like the real thing though - so please do feel very welcome to join us on a Sunday morning at 10:30am. You don't have to wear your "Sunday best" and you won't be asked to pray or read out loud. We are on New Chester Road right next to the New Ferry shops, with plenty of parking around the church building.
 

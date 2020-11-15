@@ -52,11 +52,18 @@ p {
   color: #000;
   font-size: 1.25em;
   line-height: 1.6;
+  // For long words (URLs/email addresses)
+  word-wrap: break-word;
 }
 
 hr {
   border-color: $border-color;
   max-width: 400px;
+}
+
+// https://stackoverflow.com/a/10104013
+span.avoidwrap {
+  display: inline-block;
 }
 
 .navbar {
