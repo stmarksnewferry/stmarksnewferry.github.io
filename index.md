@@ -2,7 +2,7 @@
 # HOME PAGE
 
 # Settings
-tagline: Gathering - Growing - Going
+tagline: Knowing Jesus and making Him known
 home_boxes:
 - welcome
 - safeguarding
