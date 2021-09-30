@@ -5,9 +5,9 @@
 title: What's on
 whats_on_boxes:
 - sundays
-- events
 - homegroups
 - children
+- Men's Night
 - senior-citizens
 - christianity-explored
 
