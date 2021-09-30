@@ -7,7 +7,7 @@ whats_on_boxes:
 - sundays
 - homegroups
 - children
-- Men's Night
+- events
 - senior-citizens
 - christianity-explored
 
