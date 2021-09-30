@@ -4,8 +4,8 @@
 # Settings
 title: About
 about_boxes:
-- about
 - aims
+- about
 - gospel-partnerships
 team_members:
 - andy
