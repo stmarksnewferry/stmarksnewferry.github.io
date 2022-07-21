@@ -1,6 +1,6 @@
 ---
 title: Des Drury
-job: Associate Minister
+job: Associate Minister (Emeritus)
 img: des.jpg
 ---
 Des became a Christian through the ministry at St Mark's, and has served as Reader, Warden, Treasurer, and Youth Leader.
