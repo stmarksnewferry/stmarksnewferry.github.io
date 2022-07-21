@@ -9,6 +9,6 @@ A welcoming group for all pre-school children, toddlers and babies, and their ca
 
 **Primary Children**
 
-As well groups for children on Sunday mornings, we also have a monthly Sunday afternoon group in the church hall during which parents can have a cuppa and chat in the church lounge. 4pm, second Sunday of the month. Contact [Mike](mike@stmarksnewferry.org.uk) for more details.
+As well groups for children on Sunday mornings, we have also had a monthly Sunday afternoon group in the church hall during which parents can have a cuppa and chat in the church lounge.
 
 Our children and youth leadership team are all registered with the DBS (Disclosure and Barring Service), and we operate the Diocesan Safeguarding Policy that ensures that children are always safe.
