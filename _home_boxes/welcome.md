@@ -24,6 +24,6 @@ Finally, if you are feeling anxious, wondering where God is, and need someone to
 
 The church members today are from all ages and all stages along the "journey of faith", and we hope these pages give you a picture of what we are like! A virtual visit is nothing like the real thing though - so please do feel very welcome to join us on a Sunday morning at 10:30am. You don't have to wear your "Sunday best" and you won't be asked to pray or read out loud. We are on New Chester Road right next to the New Ferry shops, with plenty of parking around the church building.
 
-We main door is accessible by ramp, and there is an induction loop for the hard of hearing.
+The main door is accessible by ramp, and there is an induction loop for the hard of hearing.
 
 We look forward to seeing you.
