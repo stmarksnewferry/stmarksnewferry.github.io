@@ -19,7 +19,7 @@ dropbox_id: mqunm20dg8b4u05
 # Site settings (do not edit)
 layout: whats-on
 ---
-As well as the calendar, Have a look at [this month's "What's On?" sheet][whatson] to find out what is currently happening at St Mark's.
+Have a look at [this month's "What's On?" sheet][whatson] to find out what is currently happening at St Mark's.
 
 You can find out more about our regular activities further down this page...
 
