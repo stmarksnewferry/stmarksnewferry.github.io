@@ -9,9 +9,9 @@ about_boxes:
 - gospel-partnerships
 team_members:
 - andy
+- joe
 - des
 - mike
-- trainee
 
 # Site settings (do not edit)
 layout: about
