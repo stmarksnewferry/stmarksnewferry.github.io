@@ -9,7 +9,7 @@ St Mark's is an Anglican Parish Church on the Wirral peninsula, and we have been
 
 **We open the doors at 10am for our 10.30am Sunday morning meeting**
 
-We are still using Zoom to enable people shielding at home to be part of the meeting. Please email us: admin@stmarksnewferry.org.uk or follow our Facebook page to hear more.
+We are still using Zoom to enable people at home to be part of the meeting. Please email us: admin@stmarksnewferry.org.uk or follow our Facebook page to hear more.
 
 
 <div align="centre"> 
