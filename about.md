@@ -9,8 +9,8 @@ about_boxes:
 - gospel-partnerships
 team_members:
 - andy
-- joe
 - des
+- joe
 - mike
 
 # Site settings (do not edit)
