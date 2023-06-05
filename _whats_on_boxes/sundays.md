@@ -14,4 +14,4 @@ The third and fifth Sundays of the month include Holy Communion.
 
 **Evenings:**
 
-occasional seminar series or other gatherings make use of the Sunday evneing slot.
+occasional seminar series or other gatherings make use of the Sunday evening slot.
