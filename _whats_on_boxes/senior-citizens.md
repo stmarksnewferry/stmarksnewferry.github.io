@@ -1,6 +1,6 @@
 ---
 title: Senior **citizens**
-img: nello.jpg
+img: GParty.jpg
 ---
 **Tuesday Fellowship**
 
