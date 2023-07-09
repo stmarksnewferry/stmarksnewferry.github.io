@@ -12,7 +12,7 @@ layout: contact
 ---
 Address: **23 New Chester Road, New Ferry, Wirral CH62 1DG**
 
-Phone: **0151 645 2638**
+Phone: **0151 601 4872**
 
 Email: **[admin@stmarksnewferry.org.uk](mailto:admin@stmarksnewferry.org.uk)**
 
