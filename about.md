@@ -11,7 +11,7 @@ team_members:
 - andy
 - des
 - joe
-- mike
+- alison
 
 # Site settings (do not edit)
 layout: about
