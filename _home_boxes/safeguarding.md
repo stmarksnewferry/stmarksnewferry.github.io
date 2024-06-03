@@ -1,13 +1,16 @@
 ---
 title: Safeguarding
 ---
-St Mark's Church takes its duty and obligation to protect all extremely seriously.
+At St Mark's Church we work hard to maintain a safe environment for all.
  
-The PCC has adopted the national Church of England's robust procedures and guidelines.
+The PCC has adopted and we are committed to implementing the House of Bishops' safeguarding policies and good practice guidance.
 
-Our parish safeguarding officer is Mrs Marion Lesage and can be contacted at church or by email: safeguardingstmnf@gmail.com 
+If you have any concerns or enquiries regarding safeguarding, please contact our safeguarding officer.
+
+Parish safeguarding officer: Mrs Marion Lesage
+Email: safeguardingstmnf@gmail.com 
  
 You can find out more about the national policies and procedures [here](https://www.churchofengland.org/safeguarding).
  
-If you have any safeguarding concerns or issues of a safeguarding matter then you can find useful contact information [here](https://www.chester.anglican.org/social-responsibility/safeguarding).
+The Diocesan Safeguarding Team can be contacted at safeguarding@chester.anglican.org or on 01928 643442
 
