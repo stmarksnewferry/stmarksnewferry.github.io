@@ -2,7 +2,7 @@
 # HOME PAGE
 
 # Settings
-tagline: Strength for today : Bright hope for tomorrow
+tagline: Strength for today; Bright hope for tomorrow
 home_boxes:
 - welcome
 - safeguarding
