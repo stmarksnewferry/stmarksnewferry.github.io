@@ -2,7 +2,7 @@
 # HOME PAGE
 
 # Settings
-tagline: Knowing Jesus and making Him known
+tagline: Strength for today : Bright hope for tomorrow
 home_boxes:
 - welcome
 - safeguarding
