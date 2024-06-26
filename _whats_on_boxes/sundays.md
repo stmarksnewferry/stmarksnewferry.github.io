@@ -14,7 +14,8 @@ The third and fifth Sundays of the month include Holy Communion.
 
 **Evenings:**
 
-Mission Prayer on the third Sunday at 5pm
-Evening Prayer on the final Sunday at 6.30pm
+Mission Prayer on the third Sunday at 5pm.
 
-And occasional seminar series on the final Sunday at 7.45pm
+Evening Prayer on the final Sunday at 6.30pm.
+
+And occasional seminar series on the final Sunday at 7.45pm.
