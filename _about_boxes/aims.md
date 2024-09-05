@@ -12,6 +12,6 @@ We **GROW** in our commitment to God’s truth, supporting and encouraging one a
 
 Second is the great mission Jesus gave the church - to go and make disciples of all nations. (Matthew 28:19)
 
-We **GO** with compassion to God's word, to the least and the lost, declaring “the kingdom of God has come near, repent and believe the good news!”
+We **GO** with compassion to God's world, to the least and the lost, declaring “the kingdom of God has come near, repent and believe the good news!”
 
 That  “going” is both local to our town and community, and further afield through mission partners we support in other parts of the UK and abroad.
