@@ -10,7 +10,7 @@ We **GATHER** as the community of God’s people, sharing the new life that is o
 
 We **GROW** in our commitment to God’s truth, supporting and encouraging one another in living as disciples of Jesus day by day.
 
-Second is the great mission Jesus gave the church - to go and make disciples of all nations. (Matthew 28:19)
+Second is the great mission Jesus gave the church - to **GO** and make disciples of all nations. (Matthew 28:19)
 
 We **GO** with compassion to God's world, to the least and the lost, declaring “the kingdom of God has come near, repent and believe the good news!”
 
