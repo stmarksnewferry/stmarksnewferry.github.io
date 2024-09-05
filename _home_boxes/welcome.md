@@ -3,7 +3,7 @@ title: Welcome to **St Mark's**!
 img: welcome.jpg
 ---
 
-St Mark's is an Anglican Parish Church on the Wirral peninsula, and we have been making the Christian Faith known in New Ferry since our foundation in 1866.
+St Mark's is an Anglican Parish Church on the Wirral peninsula, and we have been making the Christian faith known in New Ferry since our foundation in 1866.
 
 **We open the doors at 10am for our 10.30am Sunday morning meeting**
 
